@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rodrigo Diniz</h1>
-<h3 align="center">A passionate Software Engineer from Brasil</h3>
+<h3 align="center">A passionate Brasilian Software Engineer , currently living in Porto, Portugal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodiniz&label=Profile%20views&color=0e75b6&style=flat" alt="rodiniz" /> </p>
 
